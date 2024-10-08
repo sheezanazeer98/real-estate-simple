@@ -37,7 +37,4 @@ This Github repository contains the code and documentation for a real estate con
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
 
-## Authors
-
-- [@adil-techcode](https://www.github.com/octokatherine)
 
